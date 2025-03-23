@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": "16",
+      "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+      "price": 29.95,
+      "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/81XH0e8fefL.AC_UY879.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 340
+      }
+    },
+    {
+      "id": "18",
+      "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+      "price": 9.85,
+      "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71z3kpMAYsL.AC_UY879.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 130
+      }
+    },
+    {
+      "id": "20",
+      "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+      "price": 12.99,
+      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/61pHAEJ4NML.AC_UX679.jpg",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      }
+    },
+    {
+      "title": "ASUS LAPTOP",
+      "price": "65000",
+      "description": "ASUS TUF Gaming A15, 15.6\" (39.62cm) FHD 16:9 144Hz, AMD Ryzen 7 7435HS, Gaming Laptop (16 DDR5/512GB SSD/NVIDIA GeForce RTX 2050/Windows 11 Home/Graphite Black/2.30 Kg), FA506NFR-HN045W",
+      "image": "https://th.bing.com/th/id/OIP.xt69eB7vo4XEnpHA1wV2ywHaFK?w=260&h=181&c=7&r=0&o=5&pid=1.7",
+      "id": "2e46"
+    },
+    {
+      "id": "a0c3",
+      "title": "iPhone 16 ",
+      "price": "89999",
+      "description": "iPhone 16 128 GB: 5G Mobile Phone with Camera Control, A18 Chip and a Big Boost in Battery Life. Works with AirPods; Black",
+      "image": "https://stockwallpapersland.com/wp-content/uploads/2024/02/iphone-16-pro-max-battery-life.jpg"
+    }
+  ]
+}
